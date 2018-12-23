@@ -13,4 +13,4 @@ module.exports = function(_){
 			return res.render('signup');
 		}
 	}
-}
+} 
